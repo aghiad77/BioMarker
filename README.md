@@ -31,7 +31,7 @@ Implement secure storage practices to protect sensitive biomarker information.
 
 Clone this repository to your local machine using bash:
 
-git clone https://github.com/YourOrganization/BioMarkerInsight.git
+git clone https://github.com/aghiad77/BioMarker.git
 #### Configure API Keys:
 
 Obtain necessary API keys and configure the app to connect with the healthcare provider's API.
